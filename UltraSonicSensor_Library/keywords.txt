@@ -1,0 +1,4 @@
+UltraSonic			KEYWORD1
+ping				KEYWORD2
+pingAverage			KEYWORD3
+UltraSonicSensor_Library	KEYWORD4

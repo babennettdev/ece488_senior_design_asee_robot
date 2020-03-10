@@ -1,0 +1,4 @@
+Compass		KEYWORD1
+getYaw		KEYWORD2
+clearFifo	KEYWORD3
+Setup		KEYWORD4

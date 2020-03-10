@@ -1,0 +1,4 @@
+Deposit 	KEYWORD1
+eject		KEYWORD2
+servoSetup	KEYWORD3
+getInitialBallColor KEYWORD4

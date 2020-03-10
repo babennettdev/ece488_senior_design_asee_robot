@@ -1,6 +1,6 @@
-##### Indiana University - Purdue University Indianapolis Electrical and Computer Engineering Senior Design 2018
-#### ECE487 and ECE488
-#### Blake Bennett
+# Indiana University - Purdue University Indianapolis Electrical and Computer Engineering Senior Design 2018
+## ECE487 and ECE488
+## Blake Bennett
 
 ![WorkerBot Demo](ECE488_ASEE_Robotics_Demonstration.gif)
 

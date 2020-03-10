@@ -2,7 +2,7 @@
 #### ECE487 and ECE488
 #### Blake Bennett
 
-![WorkerBot Demo](https://github.com/babennettdev/ece488_senior_design_asee_robot/ECE488_ASEE_Robotics_Demonstration.gif)
+![WorkerBot Demo](ECE488_ASEE_Robotics_Demonstration.gif)
 
 ### Purpose
 The purpose of this project was to design and program a robot to the specifications of the 2018 ASEE Robotics Competition "WorkerBots." As upperclassmen, we were prevented from entering the competition, but the goal was to work through the design process, document it, document lessons learned, and create a lesson plan to teach underclassmen the skills necessary to be successful in future robotics competitions. 
